@@ -4,8 +4,8 @@ Currently I'm studying Information Systems at Universidade Federal de Santa Cata
 
 <div align="center">
   <a href="https://github.com/devpedrorocha">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=devpedrorocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrorocha&layout=compact&langs_count=7&theme=dark"/>
+  <img width="55%" height="180em" src="https://github-readme-stats.vercel.app/api?username=devpedrorocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="44% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrorocha&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 In this world with many technologies, I'm currently studying these tools:
