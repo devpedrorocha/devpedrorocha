@@ -1,6 +1,6 @@
 # Hi there! I'm Pedro Rocha! 👋
 
-Currently I'm studying Information Systems at Universidade Federal de Santa Catarina (UFSC), in Brazil. I'm in my first yeart at College and I hope to learn as much as possible. At this moment I'm focused on Web Development.
+Currently I'm studying Information Systems at Universidade Federal de Santa Catarina (UFSC), in Brazil. I'm in my first year at College and I hope to learn as much as possible. At this moment I'm focused on Web Development.
 
 <div align="center">
   <a href="https://github.com/devpedrorocha">
